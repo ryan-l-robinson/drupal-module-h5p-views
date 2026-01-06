@@ -1,0 +1,6 @@
+views.filter.h5p_library_title:
+  type: views.filter.in_operator
+  label: "H5P Library Type"
+
+views.filter_value.h5p_library_title:
+  type: views.filter_value.in_operator

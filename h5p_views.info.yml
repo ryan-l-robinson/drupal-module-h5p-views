@@ -1,0 +1,10 @@
+name: H5P Views
+description: Exposes more H5P values to views.
+package: H5P
+type: module
+version: 1.0
+core_version_requirement: ^11.3
+dependencies:
+  - drupal:views
+  - h5p:h5p
+php: 8.3
