@@ -6,7 +6,7 @@ use Drupal\Core\Hook\Attribute\Hook;
 use Drupal\Core\StringTranslation\StringTranslationTrait;
 
 /**
- * Implements hooks for Signup Notice module.
+ * Implements hooks for H5P Hooks module.
  */
 class H5pViewsHooks {
 
