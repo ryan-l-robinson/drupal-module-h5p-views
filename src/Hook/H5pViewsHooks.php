@@ -6,7 +6,7 @@ use Drupal\Core\Hook\Attribute\Hook;
 use Drupal\Core\StringTranslation\StringTranslationTrait;
 
 /**
- * Implements hooks for H5P Hooks module.
+ * Implements hooks for H5P Views module.
  */
 class H5pViewsHooks {
 
